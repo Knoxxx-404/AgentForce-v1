@@ -1,0 +1,30 @@
+{
+  "packageDirectories": [
+  
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "demo-agent",
+      "default": false,
+      "package": "DemoAgent-v1",
+      "versionDescription": "My Package"
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "Dreamhouse",
+      "versionDescription": "dreamhouse"
+    }
+  ],
+  "name": "Demo-project-unlocked",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "64.0",
+  "packageAliases": {
+    "DemoAgent-v1": "0HodL0000001N4DSAU",
+    "Dreamhouse": "0HodL0000001NAfSAM",
+    "Dreamhouse@0.1.0-1": "04tdL000000CnTBQA0"
+  }
+}
